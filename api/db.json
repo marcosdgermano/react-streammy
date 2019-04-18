@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Streams",
+      "description": "Description",
+      "id": 1
+    },
+    {
+      "title": "My Streams",
+      "description": "Description",
+      "id": 2
+    },
+    {
+      "title": "Stream Test Nº 3.5",
+      "description": "Edit from stream nº 3",
+      "id": 3
+    },
+    {
+      "title": "Component Reuse Stream Test",
+      "description": "Now with the StreamForm",
+      "userId": "105483943906773773539",
+      "id": 5
+    }
+  ]
+}
